@@ -47,4 +47,15 @@ section li {
   align-items: center;
   display: flex;
   justify-content: space-between;
+  margin: 1.5rem;
+}
+
+hgroup {
+  margin: 0;
+}
+
+section a {
+  background-color: #444;
+  color: #fff;
+  padding: 1rem;
 }
