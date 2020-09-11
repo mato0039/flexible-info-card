@@ -21,18 +21,30 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 img {
   display: flex;
+  width: 10%;
+}
+
+section {
+  padding: 1rem;
+}
+
+section ul {
+  margin: 0;
 }
 
 section h2 {
-  display: block;
+  display: flex;
   justify-content: center;
 }
 
 section li {
   align-items: center;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
 }
