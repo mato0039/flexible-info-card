@@ -44,7 +44,7 @@ section h2 {
 }
 
 section li {
-  align-items: center;
+  align-items: flex-start;
   display: flex;
   justify-content: space-between;
   margin: 1.5rem;
